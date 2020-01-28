@@ -1,40 +1,3 @@
-<!-- 
-                                      ╓@▓║╖╖
-                              ,╦▓╢╢╢╢▒▒▒▒║╖,
-                          ,╦▓╢▓▓▓╣╢╢╢▒▒▒▒@▓▓▓▓▄,
-                      ,╔@╣╢╢╢╢▓▓▓▓▓▓▓╫▓▓▓▓▓▓▓▓▓▓▓▓æ,
- 
-                ╦▓▓▓▓▓▓▒▒▒▒▒▒╫▀`           ╚▓▓╣╢╢╢╢▓▓▓▓▓▓W
-            ╓╖║▒╢╣▓▓▓▓▓▒▒║╜`                  `╨▓╢╢▓▓▓▓▓▒▒╫▓@╖
-         ∩║▒▒▒▒▒╢╢╢╢╣╣▓`             ,            "╨╢▒▒▒▒▒╫╢╢╢╢▓@╕
-        ▐▓▓▓▒▒▒▒╢╢▓▓▓▓▓          ╓╖║▒▓▓▓╦             `╜▒▒╫╢╣▓▓▓▓▌
-        ▐▓▓▓▓▓▓╣▓▓▓▓▓▓▓       ^║▒▒▒▒▒▓▓▓▓▓▓&╖             ]▓▓▓▓▓▓▌
-        ▐▓▓▓▓╣╢╣╢╣▓▓▓▓▓          `╜▒▒▓▓▓▓▓▓▓╣╢▓N,         ]▒▒▒▀▓▓▌
-        ]╢╣╢╢╢╢╣╢╢╢╢╣╝╜            ,▄▓▓▓▓▓▓▓╣╢╢╢╢╢▓W,     ]▒▒▒▒▒╢▌
-        ]▒▒▒▒╫╣╣╢╩╙             ╥&▓▓▓▓▓▓▓▓▓▓╣╢╣╢╢╢╢▓▓▓▓æ, ]▒▒╫╣╢╢▌
-        ]▒▒▒▒▒▄▌            ╓▄▓▓▓▓▓▓▓▓▓▓▓▓▀╜`╙▓╢╢╢╢▓▓▓▓▓▓╩▐▓╣╢╢╢╢▌
-        ]▒▄▓▓▓▓▌        ╓▄▓▓▓▓╢╢╢╣▓▓▓▓▓╩        "╨▓▓▓╝    ▐▓▓▓▓▓╣▌
-        ]▓▓▓▓▓▓▌    ,g▓▓▓▓▓▓▓▓╢╢╢╢▓╜                      ▐▓▓▓▓▓▒[
-        ]╢╢╢╣▓▓▌,g▓▓▓▓▓╢╢╢╢▓▓▓▓╝`                         ▐▓▓▒▒▒▒[
-        ]╢╢╢╣▓▓▓╣▓▓▓▓▓▓╢╢╢▓╝`            ,▄▓▓&╖           ]╣@▒▒▒▒[
-        ]▓▓▓▓▓▓▓╢╢╢╣╣▓▓╩"            ,▄▓▓▓▓▓▓▓▓▓▓&,       ]╢╢╢╣╣▒[
-        ▐▓▓▓▓▓▓▓╢╢╣╩╙             ╥▓▓▓▓▓▓▓▓▓▓▓▓▓▓╣╣`      ]╢╢╣▓▓▓▌
-        ▐▓▓▓▓▓▓▓╜             ╓&▓▓▓▓▓▓▓▓▓▓▓▓▓▓╣╢╢╢╢`      ]▓▓▓▓▓▓▌
-        ▐▓▓▓▓╣╣╣▒╖╖       ╓▄▓▓╢╣▓▓▓▓▓▓▓▓▓▒▒▒╫╢╢╢╢╢╢`   æ▓▓▌▒▒▓▓▓▓▌
-        ╘▓╣╢╢╢╢╣▒▒▒▒▒╖╖▄▓▓▓▓▓▓╢╢╢╢╢╣▓▓▒▒▒▒▒▒╫╢╢╢╢╢╣W$▓▓▓▓▓▌▒▒▒▒▒╢╛
-           "╩▓╢╣▒▒▒╫╣╢╫▓▓▓▓▓▓▓╢╢╢╢╢╣╢▓▓▓@▒▒▒╫╢╣▓▓▓▓▓╢╣▓▓▓▓▌▒▒╜`
-               "╩╣╢╢╢╢╫▓▓▓▓▓▓▓▓╢╢╢╢╢╢▓▓▓▓▓▓▓╫▓▓▓▓▓▓▓╢╢╢╢╢Ñ╙
-                   ╙╬╢╫▓▓▓▒▒▒▒▓▓▓▓▓╣╢▓▓▓▓╣╢╢▒▒▒▒▓▓▓▓╢▓╝
-                       ╙║▒▒▒▒▒▓▓▓▓▓▓▓▓╣╢╢╢╢╢▒▒▒▒▒║╜`
-                           ╙║▒▓▓▓▓╣╢╢▓▓▓▓▓╣╢▒║╜`
-                              "╩▓╢╢╢╢▓▓▓▓▓▀"
-                                  ╙╩╣▓▓╩
- 
-                            I R I D E S C E N C E
-
-                             © T E 5 S E R Λ C T
-
- -->
 <!DOCTYPE html>
 <html lang="eng">
     <head>
@@ -191,6 +154,10 @@
         <meta name="image:Photo Post Logo" content=""/>
         
         <!--THEME-->
+        <!--fonts-->
+        <meta name="font:Navigation Title" content="'Kaiti TC', 'KaiTi', sans-serif"/>
+        <meta name="font:Header Title Font" content="'Kaiti TC', 'KaiTi', sans-serif"/>
+        
         <!--select nav layout-->
         <meta name="select:Navigation Menu Colors" title="Top Navigation Bar Single Color" content="single-color-nav"/>
         <meta name="select:Navigation Menu Colors" title="Top Navigation Bar Two Colors" content="two-color-nav"/>
@@ -509,18 +476,6 @@
             box-shadow: 0 3px 10px rgba({text:Navigation Menu Shadow}, {text:Navigation Menu Shadow Opacity});
         }
         
-        /*if the top navigation bar is transparent on the*/
-        {block:ifNavigationBarTransparentonHeader}
-        /*#top-nav-bar {*/
-        /*    background-color: transparent !important;*/
-        /*    box-shadow: none !important;*/
-        /*}*/
-        
-        /*.iridescence-header {*/
-        /*    margin-top: 0 !important;*/
-        /*}*/
-        {/block:ifNavigationBarTransparentonHeader}
-        
         #top-nav-bar > nav > ul > li > a:not(.nav-title-link) {
             line-height: {text:Navigation Bar Height}px;
             color: {color:Navigation Link};
@@ -560,6 +515,7 @@
         .nav-title-text {
             color: {color:Navigation Blog Title or Name} !important;
             text-transform: {select:Navigation Name or Title Case} !important;
+            font-family: {font:Navigation Title};
         }
         
         /*navigation logo area*/
@@ -608,6 +564,7 @@
             font-size: {text:Header Title Font Size}px;
             text-transform: {select:Header Title Style};
             letter-spacing: {text:Title Letter Spacing}px;
+            font-family: {font:Header Title Font};
         }
         .header-description {
             font-size: {text:Header Description Font Size}px;
@@ -787,6 +744,7 @@
         .sidebar-title-or-name {
             border-bottom: 1px solid {color:Navigation Accent};
             text-transform: {select:Sidebar Blog Title or Name Case};
+            font-family: {font:Navigation Title};
         }
         .sidebar-controls {
             border-bottom: 1px solid {color:Navigation Accent};
@@ -1435,7 +1393,9 @@
                         </p>
                         {Answer}
                     {/block:Answerer}
-                    
+                    {block:Answerer}
+                        <img class="post-ask-img" src="{AnswererPortraitURL-128}"><br>
+                    {/block:Answerer}
                     {Replies}
                 </main>
                 {/block:Answer}

@@ -1274,7 +1274,11 @@
                             
                             <!--MAGNIFY-->
                             {block:Photo}
-                                <li class="magnify-post"></li>
+                                {block:HighRes}
+                                    <li class="magnify-post">
+                                        <a class="iso-magnify-right trident-view-photo" src="{PhotoURL-HighRes}"></a>
+                                    </li>
+                                {/block:HighRes}
                             {/block:Photo}
                         </ul>
                     </div>

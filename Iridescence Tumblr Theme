@@ -652,7 +652,6 @@
         /*navigation hover options*/
         /*hover style for background colours*/
         .nav-hover-style-2:hover,
-        .nav-hover-style-3:hover,
         .nav-hover-style-4:hover,
         .nav-hover-style-6:hover {
             color: {color:Navigation Link Hover};

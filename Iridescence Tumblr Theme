@@ -1,0 +1,1596 @@
+<!-- 
+                                      ╓@▓║╖╖
+                              ,╦▓╢╢╢╢▒▒▒▒║╖,
+                          ,╦▓╢▓▓▓╣╢╢╢▒▒▒▒@▓▓▓▓▄,
+                      ,╔@╣╢╢╢╢▓▓▓▓▓▓▓╫▓▓▓▓▓▓▓▓▓▓▓▓æ,
+ 
+                ╦▓▓▓▓▓▓▒▒▒▒▒▒╫▀`           ╚▓▓╣╢╢╢╢▓▓▓▓▓▓W
+            ╓╖║▒╢╣▓▓▓▓▓▒▒║╜`                  `╨▓╢╢▓▓▓▓▓▒▒╫▓@╖
+         ∩║▒▒▒▒▒╢╢╢╢╣╣▓`             ,            "╨╢▒▒▒▒▒╫╢╢╢╢▓@╕
+        ▐▓▓▓▒▒▒▒╢╢▓▓▓▓▓          ╓╖║▒▓▓▓╦             `╜▒▒╫╢╣▓▓▓▓▌
+        ▐▓▓▓▓▓▓╣▓▓▓▓▓▓▓       ^║▒▒▒▒▒▓▓▓▓▓▓&╖             ]▓▓▓▓▓▓▌
+        ▐▓▓▓▓╣╢╣╢╣▓▓▓▓▓          `╜▒▒▓▓▓▓▓▓▓╣╢▓N,         ]▒▒▒▀▓▓▌
+        ]╢╣╢╢╢╢╣╢╢╢╢╣╝╜            ,▄▓▓▓▓▓▓▓╣╢╢╢╢╢▓W,     ]▒▒▒▒▒╢▌
+        ]▒▒▒▒╫╣╣╢╩╙             ╥&▓▓▓▓▓▓▓▓▓▓╣╢╣╢╢╢╢▓▓▓▓æ, ]▒▒╫╣╢╢▌
+        ]▒▒▒▒▒▄▌            ╓▄▓▓▓▓▓▓▓▓▓▓▓▓▀╜`╙▓╢╢╢╢▓▓▓▓▓▓╩▐▓╣╢╢╢╢▌
+        ]▒▄▓▓▓▓▌        ╓▄▓▓▓▓╢╢╢╣▓▓▓▓▓╩        "╨▓▓▓╝    ▐▓▓▓▓▓╣▌
+        ]▓▓▓▓▓▓▌    ,g▓▓▓▓▓▓▓▓╢╢╢╢▓╜                      ▐▓▓▓▓▓▒[
+        ]╢╢╢╣▓▓▌,g▓▓▓▓▓╢╢╢╢▓▓▓▓╝`                         ▐▓▓▒▒▒▒[
+        ]╢╢╢╣▓▓▓╣▓▓▓▓▓▓╢╢╢▓╝`            ,▄▓▓&╖           ]╣@▒▒▒▒[
+        ]▓▓▓▓▓▓▓╢╢╢╣╣▓▓╩"            ,▄▓▓▓▓▓▓▓▓▓▓&,       ]╢╢╢╣╣▒[
+        ▐▓▓▓▓▓▓▓╢╢╣╩╙             ╥▓▓▓▓▓▓▓▓▓▓▓▓▓▓╣╣`      ]╢╢╣▓▓▓▌
+        ▐▓▓▓▓▓▓▓╜             ╓&▓▓▓▓▓▓▓▓▓▓▓▓▓▓╣╢╢╢╢`      ]▓▓▓▓▓▓▌
+        ▐▓▓▓▓╣╣╣▒╖╖       ╓▄▓▓╢╣▓▓▓▓▓▓▓▓▓▒▒▒╫╢╢╢╢╢╢`   æ▓▓▌▒▒▓▓▓▓▌
+        ╘▓╣╢╢╢╢╣▒▒▒▒▒╖╖▄▓▓▓▓▓▓╢╢╢╢╢╣▓▓▒▒▒▒▒▒╫╢╢╢╢╢╣W$▓▓▓▓▓▌▒▒▒▒▒╢╛
+           "╩▓╢╣▒▒▒╫╣╢╫▓▓▓▓▓▓▓╢╢╢╢╢╣╢▓▓▓@▒▒▒╫╢╣▓▓▓▓▓╢╣▓▓▓▓▌▒▒╜`
+               "╩╣╢╢╢╢╫▓▓▓▓▓▓▓▓╢╢╢╢╢╢▓▓▓▓▓▓▓╫▓▓▓▓▓▓▓╢╢╢╢╢Ñ╙
+                   ╙╬╢╫▓▓▓▒▒▒▒▓▓▓▓▓╣╢▓▓▓▓╣╢╢▒▒▒▒▓▓▓▓╢▓╝
+                       ╙║▒▒▒▒▒▓▓▓▓▓▓▓▓╣╢╢╢╢╢▒▒▒▒▒║╜`
+                           ╙║▒▓▓▓▓╣╢╢▓▓▓▓▓╣╢▒║╜`
+                              "╩▓╢╢╢╢▓▓▓▓▓▀"
+                                  ╙╩╣▓▓╩
+ 
+                            I R I D E S C E N C E
+
+                             © T E 5 S E R Λ C T
+
+ -->
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <title>{Title}</title>
+        
+        <link rel="shortcut icon" type="image/png" href="{Favicon}"/>
+        
+        <!--trident stylesheet-->
+        <link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/vi68cdoz2h79hbn/trident-styles.css"/>
+        
+        <!--iridescence stylesheet-->
+        <link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/nj394lebco6us0s/iridescence-styles.css"/>
+        
+        <!--personal library-->
+        <script src="https://dl.dropbox.com/s/v0os0e7ltlaf4ow/enchant.min.js"></script>
+        
+        <!--masonry-->
+        <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+        
+        <!--infinte scroll-->
+        <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
+        
+        <!--icons-->
+        <link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/quzd3bjzkcffx7i/style.css">
+        
+        <!--colours-->
+        <meta name="color:Post Background" content="#f2f2f2"/>
+        <meta name="color:Post Text" content="#7a7a7a"/>
+        <meta name="color:Post Accent" content="#e0e0e0"/>
+        <meta name="color:Post Footer Links" content="#9f9f9f"/>
+        <meta name="color:Post Footer Links Hover" content="#8c8c8c"/>
+        <meta name="color:Post Header Text" content="#9f9f9f"/>
+        <meta name="color:Post Link Color" content="#23c0ff"/>
+        <meta name="color:Post Link Hover Color" content="#0294fc"/>
+        
+        <meta name="color:Photo Post Footer Links 2" content="#23c0ff"/>
+        <meta name="color:Photo Post Footer Links Hover 2" content="#0294fc"/>
+        <meta name="color:Photo Post Header Text 2" content="#717171"/>
+        
+        <meta name="color:Reblog Button" content="#9f9f9f"/>
+        <meta name="color:Like Button" content="#9f9f9f"/>
+        <meta name="color:Reblog Button 2" content="#9f9f9f"/>
+        <meta name="color:Photo Post Reblog Button 2 Background" content="#fff"/>
+        <meta name="color:Like Button 2" content="#9f9f9f"/>
+        
+        <!--text-->
+        <meta name="text:Photo Post Accent 2" content="84, 84, 84"/>
+        <meta name="text:Photo Post Accent 2 Opacity" content=".5"/>
+        
+        <!--tumblr controls adjustments-->
+        <meta name="text:Blog Controls Y Adjustment" content="0"/>
+        <meta name="text:Blog Controls X Adjustment" content="0"/>
+        
+        <!--text corner sharpness-->
+        <meta name="text:Post Corner Sharpness" content="3"/>
+        <meta name="text:Reblog Button Corner Sharpness" content="3"/>
+        
+        <!--text shadow opacity-->
+        <meta name="text:Post Shadow Amount" content=".2"/>
+        
+        <!--text photo post hover speed-->
+        <meta name="text:Photo Post Hover Transition Speed" content=".2"/>
+        
+        <!--text photo post texture settings-->
+        <meta name="text:Photo Post Texture Size" content="3"/>
+        <meta name="text:Photo Post Texture Opacity" content=".2"/>
+        
+        <!--text photo post logo-->
+        <meta name="text:Photo Post Logo Size" content="60"/>
+        
+        <!--text post overlay gradient colours-->
+        <meta name="text:Photo Post Gradient Overlay Primary Color" content="0, 0, 0"/>
+        <meta name="text:Photo Post Gradient Overlay Secondary Color" content="0, 0, 0"/>
+        
+        <!--text post overlay gradients-->
+        <meta name="text:Photo Post Overlay Primary Opacity" content=".5"/>
+        <meta name="text:Photo Post Overlay Secondary Opacity" content="1"/>
+        
+        <!--text single post size-->
+        <meta name="text:Single Post Size" content="800"/>
+        
+        <!--fonts-->
+        <meta name="font:General" content="'Kaiti TC', 'KaiTi', sans-serif"/>
+        
+        <!--selections-->
+        <meta name="select:Pagination Type" title="Infinite Scroll" content="infScroll"/>
+        <meta name="select:Pagination Type" title="Numbered Pagination" content="numbered"/>
+        
+        <!--blog controls-->
+        <meta name="select:Blog Controls Position" title="Top Right" content="ctrls-top-right"/>
+        <meta name="select:Blog Controls Position" title="Top Left" content="ctrls-top-left"/>
+        <meta name="select:Blog Controls Position" title="Left & Under Navigation Bar" content="ctrls-left-under-nav"/>
+        <meta name="select:Blog Controls Position" title="Right & Under Navigation Bar" content="ctrls-right-under-nav"/>
+        <meta name="select:Blog Controls Position" title="Top Center" content="ctrls-top-center"/>
+        <meta name="select:Blog Controls Position" title="Center & Under Navigation Bar" content="ctrls-center-under-nav"/>
+        
+        <!--selection post footer control position-->
+        <meta name="select:Post Footer Controls Position" title="Like & Reblog on Left" content="like-reblog-left"/>
+        <meta name="select:Post Footer Controls Position" title="Like & Reblog on Right" content="like-reblog-right"/>
+        <meta name="select:Post Footer Controls Position" title="All to Left" content="all-to-left"/>
+        <meta name="select:Post Footer Controls Position" title="All to Right" content="all-to-right"/>
+        
+        <!--selection post header control position-->
+        <meta name="select:Post Header Items Position" title="Date to Left" content="date-to-left"/>
+        <meta name="select:Post Header Items Position" title="Date to Right" content="date-to-right"/>
+        <meta name="select:Post Header Items Position" title="All to Left" content="all-to-left"/>
+        <meta name="select:Post Header Items Position" title="All to Right" content="all-to-right"/>
+        
+        <!--selecton photo post layouts-->
+        <meta name="select:Photo Post Layout" title="Default" content="layout-default"/>
+        <meta name="select:Photo Post Layout" title="Layout 1" content="layoutOne"/>
+        <meta name="select:Photo Post Layout" title="Layout 2" content="layoutTwo"/>
+        <meta name="select:Photo Post Layout" title="Layout 3" content="layoutThree"/>
+        <meta name="select:Photo Post Layout" title="Layout 4" content="layoutFour"/>
+        
+        <!--selection photo post texture-->
+        <meta name="select:Photo Post Hover Texture" title="None" content="no-texture"/>
+        <meta name="select:Photo Post Hover Texture" title="Squares Standard" content="squares-standard"/>
+        <meta name="select:Photo Post Hover Texture" title="Rings Tiled Standard" content="rings-tiled-standard"/>
+        <meta name="select:Photo Post Hover Texture" title="Rings Tiled Descending" content="rings-tiled-descending"/>
+        <meta name="select:Photo Post Hover Texture" title="Lines Vertical" content="lines-vertical"/>
+        <meta name="select:Photo Post Hover Texture" title="Lines Sloped Right" content="lines-sloped-right"/>
+        <meta name="select:Photo Post Hover Texture" title="Circles Standard" content="circles-standard"/>
+        <meta name="select:Photo Post Hover Texture" title="Circles Large" content="circles-large"/>
+        <meta name="select:Photo Post Hover Texture" title="Checkers" content="checkers"/>
+        
+        <!--selection photo post overlay-->
+        <meta name="select:Photo Post Overlay" title="Solid Color" content="standard-photo-post-cover"/>
+        <meta name="select:Photo Post Overlay" title="Linear Gradient" content="photo-post-linear-gradient"/>
+        <meta name="select:Photo Post Overlay" title="Radial Gradient" content="photo-post-radial-gradient"/>
+        
+        <!--selection post alignment-->
+        <meta name="select:Post Alignment" title="Grid" content="grid-alignment"/>
+        <meta name="select:Post Alignment" title="Single" content="single-post"/>
+        <meta name="select:Post Alignment" title="6 Posts Adjusted" content="six-posts-adjusted"/>
+        <meta name="select:Post Alignment" title="5 Posts Adjusted" content="five-posts-adjusted"/>
+        <meta name="select:Post Alignment" title="4 Posts Adjusted" content="four-posts-adjusted"/>
+        <meta name="select:Post Alignment" title="3 Posts Adjusted" content="three-posts-adjusted"/>
+        <meta name="select:Post Alignment" title="2 Posts Adjusted" content="two-posts-adjusted"/>
+        <meta name="select:Post Alignment" title="1 Post Adjusted" content="one-posts-adjusted"/>
+        
+        <!--booleans-->
+        <meta name="if:Post Caption Enabled" content="0"/>
+        
+        <meta name="if:Post Border" content="1"/>
+        
+        <meta name="if:Display Reblogged From" content="0"/>
+        
+        <meta name="if:Enable Post Tags" content="0"/>
+        
+        <meta name="if:Enable Blog Logo On Photo Post" content="0"/>
+        
+        <!--images-->
+        <meta name="image:Photo Post Logo" content=""/>
+        
+        <!--THEME-->
+        <!--select nav layout-->
+        <meta name="select:Navigation Menu Colors" title="Top Navigation Bar Single Color" content="single-color-nav"/>
+        <meta name="select:Navigation Menu Colors" title="Top Navigation Bar Two Colors" content="two-color-nav"/>
+        
+        <meta name="select:Navigation Menu Type" title="Top Navigation Bar" content="top-nav-bar"/>
+        <meta name="select:Navigation Menu Type" title="Sidebar" content="sidebar"/>
+        
+        <!--select nav positioning-->
+        <meta name="select:Navigation Positioning" title="To Left" content="nav-all-to-left"/>
+        <meta name="select:Navigation Positioning" title="To Right" content="nav-all-to-right"/>
+        <meta name="select:Navigation Positioning" title="To Center" content="nav-all-to-center"/>
+        
+        <!--select nav logo position-->
+        <meta name="select:Navigation Logo Positioning" title="Logo to Left" content="nav-logo-to-left"/>
+        <meta name="select:Navigation Logo Positioning" title="Logo to Right" content="nav-logo-to-right"/>
+        <meta name="select:Navigation Logo Positioning" title="Logo Detached Left" content="nav-logo-detached-left"/>
+        <meta name="select:Navigation Logo Positioning" title="Logo Detached Right" content="nav-logo-detached-right"/>
+        <meta name="select:Navigation Logo Positioning" title="Logo Detached Center" content="nav-logo-detached-center"/>
+        
+        <!--select nav / blog name order-->
+        <meta name="select:Navigation Logo And Name Positioning" title="Logo Left Name Right" content="nav-logo-left"/>
+        <meta name="select:Navigation Logo And Name Positioning" title="Logo Right Name Left" content="nav-logo-right"/>
+        
+        <!--select navigation blog name-->
+        <meta name="select:Navigation Blog Name or Title" title="None" content="nav-no-name-or-title"/>
+        <meta name="select:Navigation Blog Name or Title" title="Name" content="nav-name"/>
+        <meta name="select:Navigation Blog Name or Title" title="Title" content="nav-title"/>
+        
+        <!--select navigation name or title style-->
+        <meta name="select:Navigation Name or Title Case" title="Standard" content="none"/>
+        <meta name="select:Navigation Name or Title Case" title="Title" content="capitalize"/>
+        <meta name="select:Navigation Name or Title Case" title="Lowercase" content="lowercase"/>
+        <meta name="select:Navigation Name or Title Case" title="Uppercase" content="uppercase"/>
+        
+        <!--select nav hover styles-->
+        <meta name="select:Navigation Hover Styles" title="Standard" content="nav-hover-style-1"/>
+        <meta name="select:Navigation Hover Styles" title="Standard With Background" content="nav-hover-style-2"/>
+        <meta name="select:Navigation Hover Styles" title="Underline" content="nav-hover-style-3"/>
+        <meta name="select:Navigation Hover Styles" title="Underline With Background" content="nav-hover-style-4"/>
+        <meta name="select:Navigation Hover Styles" title="Overline" content="nav-hover-style-5"/>
+        <meta name="select:Navigation Hover Styles" title="Overline With Background" content="nav-hover-style-6"/>
+        <meta name="select:Navigation Hover Styles" title="Center Underline" content="nav-hover-style-7"/>
+        <meta name="select:Navigation Hover Styles" title="Center Underline With Background" content="nav-hover-style-8"/>
+        <meta name="select:Navigation Hover Styles" title="From Center Background Only" content="nav-hover-style-9"/>
+        <meta name="select:Navigation Hover Styles" title="Center Overline" content="nav-hover-style-10"/>
+        <meta name="select:Navigation Hover Styles" title="Center Overline With Background" content="nav-hover-style-11"/>
+        <meta name="select:Navigation Hover Styles" title="Left Line Grow" content="nav-hover-style-12"/>
+        <meta name="select:Navigation Hover Styles" title="Left Line Grow With Background" content="nav-hover-style-13"/>
+        <meta name="select:Navigation Hover Styles" title="Left Line" content="nav-hover-style-14"/>
+        <meta name="select:Navigation Hover Styles" title="Left Line With Background" content="nav-hover-style-15"/>
+        <meta name="select:Navigation Hover Styles" title="Right Line Grow" content="nav-hover-style-16"/>
+        <meta name="select:Navigation Hover Styles" title="Right Line Grow With Background" content="nav-hover-style-17"/>
+        <meta name="select:Navigation Hover Styles" title="Right Line" content="nav-hover-style-18"/>
+        <meta name="select:Navigation Hover Styles" title="Right Line With Background" content="nav-hover-style-19"/>
+        
+        <!--select sub nav hover styles-->
+        <meta name="select:Sub Navigation Hover Styles" title="Standard With Background" content="sub-standard-hover"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Standard No Background" content="sub-nav-hover-style-0"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Left Line" content="sub-nav-hover-style-1"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Left Line With Background" content="sub-nav-hover-style-2"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Right Line" content="sub-nav-hover-style-3"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Right Line With Background" content="sub-nav-hover-style-4"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Underline" content="sub-nav-hover-style-5"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Underline With Background" content="sub-nav-hover-style-6"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Center Underline" content="sub-nav-hover-style-7"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Center Underline With Background" content="sub-nav-hover-style-8"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Overline" content="sub-nav-hover-style-9"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Overline With Background" content="sub-nav-hover-style-10"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Center Overline" content="sub-nav-hover-style-11"/>
+        <meta name="select:Sub Navigation Hover Styles" title="Center Overline With Background" content="sub-nav-hover-style-12"/>
+        
+        <!--select drop menu toggle type-->
+        <meta name="select:Navigation Drop Menu Toggle Type" title="Click" content="drop-click-toggle"/>
+        <meta name="select:Navigation Drop Menu Toggle Type" title="Hover" content="drop-hover-toggle"/>
+        
+        <!--select drop menu transition style-->
+        <meta name="select:Navigation Drop Menu Transition Style" title="Standard" content="drop-standard"/>
+        <meta name="select:Navigation Drop Menu Transition Style" title="Slide Down" content="drop-slide-down"/>
+        <meta name="select:Navigation Drop Menu Transition Style" title="Slide Up" content="drop-slide-up"/>
+        <meta name="select:Navigation Drop Menu Transition Style" title="Slide Left" content="drop-slide-left"/>
+        <meta name="select:Navigation Drop Menu Transition Style" title="Slide Right" content="drop-slide-right"/>
+
+        <!--select drop menu content alignment-->
+        <meta name="select:Navigation Drop Menu Link Alignment" title="Left" content="left"/>
+        <meta name="select:Navigation Drop Menu Link Alignment" title="Center" content="center"/>
+        <meta name="select:Navigation Drop Menu Link Alignment" title="Right" content="right"/>
+        
+        <!--select drop menu content alignment-->
+        <meta name="select:Navigation Drop Menu Link Alignment" title="Left" content="left"/>
+        <meta name="select:Navigation Drop Menu Link Alignment" title="Center" content="center"/>
+        <meta name="select:Navigation Drop Menu Link Alignment" title="Right" content="right"/>
+        
+        <!--select header image type-->
+        <meta name="select:Navigation Position" title="Navigation Above Header" content="nav-top"/>
+        <meta name="select:Navigation Position" title="Navigation Under Header" content="nav-bottom"/>
+        
+        <!--select navigation bar setting-->
+        <meta name="select:Navigation Bar Setting" title="Navigation Sticky" content="nav-fixed"/>
+        <meta name="select:Navigation Bar Setting" title="Navigation Static" content="nav-static"/>
+        <meta name="select:Navigation Bar Setting" title="Navigation Sticky After Header" content="nav-static-fixed"/>
+        
+        <!--select image slider style-->
+        <meta name="select:Image Slider Type" title="Shuffle" content="slider-shuffle"/>
+        <meta name="select:Image Slider Type" title="Slide" content="slider-slide"/>
+        
+        <!--select header gradient actions-->
+        <meta name="select:Header Gradient" title="Always Present" content="header-gradient-always-on"/>
+        <meta name="select:Header Gradient" title="Appear on Scroll" content="header-gradient-scroll-fade"/>
+        
+        <!--select header background type-->
+        <meta name="select:Header Background" title="Gradient Background" content="header-background-gradient"/>
+        <meta name="select:Header Background" title="Solid Background" content="header-background-solid"/>
+        
+        <!--select header gradient direction-->
+        <meta name="select:Header Gradient Direction" title="Bottom to Top" content="top"/>
+        <meta name="select:Header Gradient Direction" title="Top to Bottom" content="bottom"/>
+        <meta name="select:Header Gradient Direction" title="Left to Right" content="right"/>
+        <meta name="select:Header Gradient Direction" title="Right to Left" content="left"/>
+        
+        <!--select header content alignment-->
+        <meta name="select:Header Content Alignment" title="Center" content="center"/>
+        <meta name="select:Header Content Alignment" title="Left" content="left"/>
+        <meta name="select:Header Content Alignment" title="Right" content="right"/>
+        
+        <!--select header title style-->
+        <meta name="select:Header Title Style" title="Standard" content="capitalize"/>
+        <meta name="select:Header Title Style" title="Uppercase" content="uppercase"/>
+        <meta name="select:Header Title Style" title="Lowercase" content="lowercase"/>
+        
+        <!--select sidebar description & title alignment-->
+        <meta name="select:Sidebar Blog Title or Name Case" title="Standard" content="capitalize"/>
+        <meta name="select:Sidebar Blog Title or Name Case" title="Uppercase" content="uppercase"/>
+        <meta name="select:Sidebar Blog Title or Name Case" title="Lowercase" content="lowercase"/>
+        
+        <meta name="select:Sidebar Title Position" title="Center" content="center"/>
+        <meta name="select:Sidebar Title Position" title="Left" content="left"/>
+        <meta name="select:Sidebar Title Position" title="Right" content="right"/>
+        
+        <meta name="select:Sidebar Description Position" title="Center" content="center"/>
+        <meta name="select:Sidebar Description Position" title="Left" content="left"/>
+        <meta name="select:Sidebar Description Position" title="Right" content="right"/>
+        
+        <meta name="select:Sidebar Navigation Position" title="Left" content="left"/>
+        <meta name="select:Sidebar Navigation Position" title="Center" content="center"/>
+        <meta name="select:Sidebar Navigation Position" title="Right" content="right"/>
+        
+        <!--select search query position-->
+        <meta name="select:Search Query Location" title="Top Navigation" content="search-query-top-navigation"/>
+        <meta name="select:Search Query Location" title="Header" content="search-query-header"/>
+        <meta name="select:Search Query Location" title="Sidebar" content="search-query-sidebar"/>
+        
+        <!--TEXT-->
+        <!--nav links-->
+        <meta name="text:Navigation Links" content="Home~/,Link1~/,#Link2,-Sub1~/,-Sub2~/,-Sub3~/"/>
+        <meta name="text:Navigation Link Hover Speed" content=".2"/>
+        <meta name="text:Navigation Link Weight" content="bold"/>
+        <meta name="text:Navigation Drop Menu Speed" content=".2"/>
+        <meta name="text:Navigation Drop Menu Corner Sharpness" content="2"/>
+        <meta name="text:Navigation Menu Shadow" content="0, 0, 0"/>
+        <meta name="text:Navigation Menu Shadow Opacity" content=".2"/>
+        
+        <!--top nav bar height-->
+        <meta name="text:Navigation Bar Height" content="60"/>
+        <meta name="text:Navigation Blog Name or Title Size" content="15"/>
+        <meta name="text:Navigation Blog Name or Title Weight" content="700"/>
+        <meta name="text:Navigation Blog Title or Name Letter Spacing" content="0"/>
+        <meta name="text:Navigation Logo Area Buffer" content="0"/>
+        
+        <!--top nav bar misc-->
+        <meta name="text:Navigation Logo Width" content="45"/>
+        
+        <!--sidebar adjustments-->
+        <meta name="text:Sidebar Width" content="300"/>
+        <meta name="text:Navigation Sidebar Title or Name Size" content="15"/>
+        <meta name="text:Sidebar Description Text Size" content="14"/>
+        <meta name="text:Sidebar Background Image Opacity" content=".05"/>
+        
+        <meta name="text:Sidebar Gradient Primary Color" content="28, 28, 28"/>
+        <meta name="text:Sidebar Gradient Primary Opacity" content="1"/>
+        <meta name="text:Sidebar Gradient Secondary Color" content="28, 28, 28"/>
+        <meta name="text:Sidebar Gradient Secondary Opacity" content="0"/>
+        
+        <!--header-->
+        <meta name="text:Header Height" content="30"/>
+        <meta name="text:Header Image Slider Speed" content="2500"/>
+        <meta name="text:Header Info Container Width" content="700"/>
+        <meta name="text:Header Info Spacing" content="5"/>
+        <meta name="text:Header Search Bar Top Buffer" content="10"/>
+        
+        <!--header avatar-->
+        <meta name="text:Avatar Border Amount" content="0"/>
+        <meta name="text:Avatar Corner Sharpness" content="0"/>
+        
+        <!--header background gradient-->
+        <meta name="text:Header Background Primary Gradient" content="122, 75, 252"/>
+        <meta name="text:Header Background Secondary Gradient" content="75, 90, 252"/>
+        
+        <!--header gradients-->
+        <meta name="text:Header Gradient 1" content="0, 0, 0"/>
+        <meta name="text:Header Gradient 1 Opacity" content="1"/>
+        <meta name="text:Header Gradient 2" content="0, 0, 0"/>
+        <meta name="text:Header Gradient 2 Opacity" content="0"/>
+        
+        <!--header info-->
+        <meta name="text:Header Title Font Size" content="35"/>
+        <meta name="text:Header Description Font Size" content="14"/>
+        <meta name="text:Header Avatar Width" content="100"/>
+        <meta name="text:Title Letter Spacing" content="0"/>
+        
+        <!--pagination-->
+        <meta name="text:Pagination Button Shadow" content=".1"/>
+        
+        <!--COLORS-->
+        <meta name="color:Background" content="#fff"/>
+        <meta name="color:Header" content="#4b5afc"/>
+        <meta name="color:Header Avatar Border" content="#fff"/>
+        <meta name="color:Search Bar Text" content="#7a7a7a"/>
+        <meta name="color:Search Button Text" content="#7a7a7a"/>
+        <meta name="color:Search Bar Background" content="#fff"/>
+        
+        <!--colour navigation-->
+        <meta name="color:Navigation Bar" content="#1c1c1c"/>
+        <meta name="color:Navigation Blog Title or Name" content="#fff"/>
+        <meta name="color:Navigation Drop Menu" content="#1c1c1c"/>
+        
+        <!--nav link-->
+        <meta name="color:Navigation Link" content="#424242"/>
+        <meta name="color:Navigation Link Hover" content="#565656"/>
+        <meta name="color:Navigation Link Background Hover" content="#191919"/>
+        
+        <!--colour sidebar-->
+        <meta name="color:Navigation Accent" content="#212121"/>
+        <meta name="color:Sidebar Description" content="#424242"/>
+        <meta name="color:Sidebar Toggle Buttons" content="#fff"/>
+        
+        <!--colour drop navigation-->
+        <meta name="color:Drop Navigation Link" content="#424242"/>
+        <meta name="color:Drop Navigation Link Hover" content="#565656"/>
+        <meta name="color:Drop Navigation Link Background Hover" content="#191919"/>
+        
+        <!--nav secondary colours-->
+        <meta name="color:Navigation Bar Secondary" content="#4f4f4f"/>
+        <meta name="color:Navigation Blog Title or Name Secondary" content="#fff"/>
+        <meta name="color:Navigation Drop Menu Secondary" content="#4f4f4f"/>
+        
+        <!--nav link secondary-->
+        <meta name="color:Navigation Link Secondary" content="#fff"/>
+        <meta name="color:Navigation Link Secondary Hover" content="#ccc"/>
+        <meta name="color:Navigation Link Secondary Background Hover" content="#424242"/>
+        
+        <!--drop nav secondary-->
+        <meta name="color:Drop Navigation Link Secondary" content="#fff"/>
+        <meta name="color:Drop Navigation Link Secondary Hover" content="#ccc"/>
+        <meta name="color:Drop Navigation Link Secondary Background Hover" content="#424242"/>
+        
+        <!--colour pagination-->
+        <meta name="color:Pagination Button" content="#fff"/>
+        <meta name="color:Pagination Button Hover" content="#fff"/>
+        <meta name="color:Pagination Text" content="#7a7a7a"/>
+        <meta name="color:Pagination Text Hover" content="#7a7a7a"/>
+        
+        <!--color header text-->
+        <meta name="color:Header Info Text Color" content="#fff"/>
+        
+        <!--BOOLEANS-->
+        <meta name="if:Navigation Bar Transparent on Header" content="0"/>
+        <meta name="if:Post Header Enabled" content="1"/>
+        <meta name="if:Enable Ask" content="1"/>
+        <meta name="if:Enable Submissions" content="1"/>
+        
+        <!--bool header-->
+        <meta name="if:Enable Header" content="1"/>
+        <meta name="if:Enable Header Parallax" content="1"/>
+        <meta name="if:Enable Header Gradient" content="1"/>
+        
+        <!--bool header items-->
+        <meta name="if:Enable Header Title" content="1"/>
+        <meta name="if:Enable Header Avatar" content="1"/>
+        <meta name="if:Enable Header Description" content="1"/>
+        
+        <!--bool sidebar description & avatar-->
+        <meta name="if:Enable Sidebar Description" content="1"/>
+        <meta name="if:Enable Sidebar Avatar" content="1"/>
+        
+        <!--bool sidebar gradient-->
+        <meta name="if:Enable Sidebar Gradient" content="0"/>
+        
+        <!--search query-->
+        <meta name="if:Enable Seach Bar" content="0"/>
+        
+        <!--IMAGES-->
+        <meta name="image:Navigation Logo" content=""/>
+        
+        <!--banner image-->
+        <meta name="image:Header Avatar" content=""/>
+        <meta name="image:Header Image 1" content="https://dl.dropbox.com/s/f1j5jmfj7dtgnce/pattern-default.svg"/>
+        <meta name="image:Header Image 2" content=""/>
+        <meta name="image:Header Image 3" content=""/>
+        <meta name="image:Header Image 4" content=""/>
+        <meta name="image:Header Image 5" content=""/>
+        
+        <!--sidebar image-->
+        <meta name="image:Sidebar Background" content=""/>
+    </head>
+    <style>
+        body {
+            font-family: {font:General};
+            background-color: {color:Background};
+        }
+        /*NAVIGATION*/
+        /*top menu*/
+        #top-nav-bar {
+            height: {text:Navigation Bar Height}px;
+            background-color: {color:Navigation Bar};
+            /*position: {select:Navigation Bar Setting};*/
+            box-shadow: 0 3px 10px rgba({text:Navigation Menu Shadow}, {text:Navigation Menu Shadow Opacity});
+        }
+        
+        /*if the top navigation bar is transparent on the*/
+        {block:ifNavigationBarTransparentonHeader}
+        /*#top-nav-bar {*/
+        /*    background-color: transparent !important;*/
+        /*    box-shadow: none !important;*/
+        /*}*/
+        
+        /*.iridescence-header {*/
+        /*    margin-top: 0 !important;*/
+        /*}*/
+        {/block:ifNavigationBarTransparentonHeader}
+        
+        #top-nav-bar > nav > ul > li > a:not(.nav-title-link) {
+            line-height: {text:Navigation Bar Height}px;
+            color: {color:Navigation Link};
+            transition: {text:Navigation Link Hover Speed}s;
+            font-weight: {text:Navigation Link Weight};
+        }
+        #sidebar > nav > ul > li > a {
+            line-height: 50px;
+            color: {color:Navigation Link};
+            transition: {text:Navigation Link Hover Speed}s;
+            font-weight: {text:Navigation Link Weight};
+        }
+        .mobile-navigation > ul > li > a {
+            color: {color:Navigation Link};
+            transition: {text:Navigation Link Hover Speed}s;
+        }
+        #top-nav-bar > nav > ul > li > a:hover,
+        #sidebar > nav > ul > li > a:hover,
+        .mobile-navigation > ul > li > a:hover {
+            color: {color:Navigation Link Hover};
+        }
+        
+        #top-nav-bar .nav-logo {
+            width: {text:Navigation Logo Width}px;
+            border-radius: {text:Avatar Corner Sharpness}px;
+        }
+        
+        .mobile-navigation {
+            border-bottom-right-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+        }
+        
+        .nav-title-text {
+            font-size: {text:Navigation Blog Name or Title Size}px;
+            font-weight: {text:Navigation Blog Name or Title Weight};
+        }
+        
+        .nav-title-text {
+            color: {color:Navigation Blog Title or Name} !important;
+            text-transform: {select:Navigation Name or Title Case} !important;
+        }
+        
+        /*navigation logo area*/
+        /* nav logo to left */
+        .nav-logo-to-left .nav-module {
+            margin-right: {text:Navigation Logo Area Buffer}px;
+        }
+        
+        /* nav logo to right */
+        .nav-logo-to-right .nav-module {
+            margin-left: {text:Navigation Logo Area Buffer}px;
+        }
+        
+        /*header section*/
+        .iridescence-header {
+            height: {text:Header Height}vh;
+        }
+        .header-gradient {
+            background: linear-gradient(to {select:Header Gradient Direction}, rgba({text:Header Gradient 1}, {text:Header Gradient 1 Opacity}), rgba({text:Header Gradient 2}, {text:Header Gradient 2 Opacity}));
+        }
+        .header-info {
+            max-width: {text:Header Info Container Width}px;
+            text-align: {select:Header Content Alignment};
+            color: {color:Header Info Text Color};
+        }
+        
+        .header-title,
+        .header-description {
+            margin: {text:Header Info Spacing}px 0;
+        }
+        
+        .header-avatar-box {
+            width: {text:Header Avatar Width}px;
+            height: {text:Header Avatar Width}px;
+            margin-bottom: {text:Header Info Spacing}px;
+        }
+        
+        .header-avatar {
+            border-radius: {text:Avatar Corner Sharpness}px;
+            height: auto;
+            padding: {text:Avatar Border Amount}px;
+            border: {text:Avatar Border Amount}px solid {color:Header Avatar Border};
+        }
+        
+        .header-title {
+            font-size: {text:Header Title Font Size}px;
+            text-transform: {select:Header Title Style};
+            letter-spacing: {text:Title Letter Spacing}px;
+        }
+        .header-description {
+            font-size: {text:Header Description Font Size}px;
+        }
+        
+        .header-search-container,
+        .top-nav-search-container,
+        .sidebar-search-container {
+            background-color: {color:Search Bar Background};
+            color: {color:Search Bar Text};
+            border-radius: 2px;
+            /*box-shadow: 0 3px 5px rgba(0, 0, 0, .1);*/
+            border: 1px solid {color:Search Bar Background};
+        }
+        .header-search-container input,
+        .top-nav-search-container input,
+        .sidebar-search-container input {
+            color: {color:Search Bar Text};
+        }
+        
+        .header-search-query .search-button,
+        .search-drop .search-button,
+        .sidebar-search-container .search-button {
+            color: {color:Search Button Text};
+        }
+        
+        .header-search-query {
+            margin-top: {text:Header Search Bar Top Buffer}px;
+        }
+        
+        .header-background-gradient {
+            background: linear-gradient(to top, rgb({text:Header Background Primary Gradient}), rgba({text:Header Background Secondary Gradient}));
+        }
+        .header-background-solid {
+            background-color: {color:Header};
+        }
+        
+        .search-drop {
+            background-color: {color:Navigation Bar};
+        }
+        
+        /*navigation hover options*/
+        /*hover style for background colours*/
+        .nav-hover-style-2:hover,
+        .nav-hover-style-3:hover,
+        .nav-hover-style-4:hover,
+        .nav-hover-style-6:hover {
+            color: {color:Navigation Link Hover};
+            background-color: {color:Navigation Link Background Hover};
+        }
+        
+        /*hover style for underlines or secondary colours*/
+        .nav-hover-style-3::before,
+        .nav-hover-style-4::before,
+        .nav-hover-style-6::before,
+        .nav-hover-style-7::before,
+        .nav-hover-style-8::before,
+        .nav-hover-style-10::before,
+        .nav-hover-style-11::before,
+        .nav-hover-style-12::before,
+        .nav-hover-style-13::before,
+        .nav-hover-style-14::before,
+        .nav-hover-style-15::before,
+        .nav-hover-style-16::before,
+        .nav-hover-style-17::before,
+        .nav-hover-style-18::before,
+        .nav-hover-style-19::before {
+            background-color: {color:Navigation Link Hover};
+            transition: {text:Navigation Link Hover Speed}s;
+        }
+        
+        /*hover style 5*/
+        .nav-hover-style-5::before {
+            background-color: {color:Navigation Link Hover};
+            transition: {text:Navigation Link Hover Speed}s;
+        }
+        
+        /*hover style expand from centre pseudo selector*/
+        .nav-hover-style-8::after,
+        .nav-hover-style-9::after,
+        .nav-hover-style-11::after,
+        .nav-hover-style-13::after,
+        .nav-hover-style-15::after,
+        .nav-hover-style-17::after,
+        .nav-hover-style-19::after {
+            background-color: {color:Navigation Link Background Hover};
+            transition: {text:Navigation Link Hover Speed}s;
+        }
+        
+        /*sub navigation hover options*/
+        /*hover styles for pseudo selectors*/
+        .sub-nav-hover-style-1::before,
+        .sub-nav-hover-style-2::before,
+        .sub-nav-hover-style-3::before,
+        .sub-nav-hover-style-4::before,
+        .sub-nav-hover-style-5::before,
+        .sub-nav-hover-style-6::before,
+        .sub-nav-hover-style-7::before, 
+        .sub-nav-hover-style-8::before,
+        .sub-nav-hover-style-9::before,
+        .sub-nav-hover-style-10::before,
+        .sub-nav-hover-style-11::before,
+        .sub-nav-hover-style-12::before {
+            background-color: {color:Drop Navigation Link Hover};
+            transition: {text:Navigation Link Hover Speed}s;
+        }
+        
+        /*nav drop menu*/
+        #top-nav-bar .nav-node-drop > ul,
+        .search-drop {
+            background-color: {color:Navigation Drop Menu};
+            border-bottom-right-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+            border-bottom-left-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+            transition: {text:Navigation Drop Menu Speed}s;
+            box-shadow: 0 7px 10px rgba({text:Navigation Menu Shadow}, {text:Navigation Menu Shadow Opacity});
+            text-align: {select:Navigation Drop Menu Link Alignment};
+        }
+        
+        .nav-node-drop > ul > li > a,
+        .mob-nav-node-drop > ul > li > a {
+            color: {color:Drop Navigation Link};
+            transition: {text:Navigation Link Hover Speed}s;
+        }
+        .nav-node-drop > ul > li > a:hover,
+        .mob-nav-node-drop > ul > li > a:hover {
+            color: {color:Drop Navigation Link Hover};
+            background-color: {color:Drop Navigation Link Background Hover};
+        }
+        
+        .nav-node-drop:hover .drop-slide-down {
+            top: {text:Navigation Bar Height}px;
+        }
+        
+        /*nav logo*/
+        .nav-logo {
+            background-image: url("{image:Navigation Logo}");
+            height: {text:Navigation Bar Height}px !important;
+        }
+        
+        /*sidebar*/
+        #sidebar {
+            background-color: {color:Navigation Bar};
+            width: {text:Sidebar Width}px;
+            text-align: {select:Sidebar Navigation Position};
+            left: -{text:Sidebar Width}px;
+            box-shadow: 5px 0 10px rgba({text:Navigation Menu Shadow}, {text:Navigation Menu Shadow Opacity});
+        }
+        #sidebar .nav-node-drop > ul {
+            border-bottom-right-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+            border-bottom-left-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+            transition: {text:Navigation Drop Menu Speed}s;
+        }
+        #sidebar > nav {
+            position: relative;
+            margin: 0 auto;
+        }
+        
+        #sidebar > nav {
+            border-top: 1px solid {color:Navigation Accent};
+        }
+        
+        /*sidebar toggle*/
+        .sidebar-nav-toggle,
+        .mobile-nav-toggle {
+            color: {color:Sidebar Toggle Buttons};
+            background-color: {color:Navigation Bar};
+            border-bottom-right-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+            border-top-right-radius: {text:Navigation Drop Menu Corner Sharpness}px;
+        }
+        .mobile-nav-toggle {
+            /*position: {select:Navigation Bar Setting};*/
+        }
+        
+        /*sidebar decorations*/
+        .sidebar-gradient {
+            background: linear-gradient(to bottom, rgba({text:Sidebar Gradient Primary Color}, {text:Sidebar Gradient Primary Opacity}), rgba({text:Sidebar Gradient Secondary Color}, {text:Sidebar Gradient Secondary Opacity}));
+        }
+        .sidebar-title-or-name {
+            border-bottom: 1px solid {color:Navigation Accent};
+            text-transform: {select:Sidebar Blog Title or Name Case};
+        }
+        .sidebar-controls {
+            border-bottom: 1px solid {color:Navigation Accent};
+        }
+        .sidebar-close {
+            color: {color:Sidebar Toggle Buttons};
+        }
+        
+        .sidebar-profile-img {
+            border-radius: {text:Avatar Corner Sharpness}px;
+        }
+        
+        .sidebar-background-image {
+            background-image: url("{image:Sidebar Background}");
+            opacity: {text:Sidebar Background Image Opacity};
+        }
+        
+        .sidebar-title-or-name a {
+            text-transform: {select:Navigation Name or Title Case};
+            color: {color:Navigation Blog Title or Name} !important;
+            font-size: {text:Navigation Sidebar Title or Name Size}px;
+            letter-spacing: {text:Navigation Blog Title or Name Letter Spacing}px;
+            font-weight: {text:Navigation Blog Name or Title Weight};
+            text-align: {select:Sidebar Title Position};
+        }
+        .sidebar-description {
+            color: {color:Sidebar Description};
+            font-size: {text:Sidebar Description Text Size}px;
+            text-align: {select:Sidebar Description Position};
+        }
+        
+        /*mobile navigation*/
+        .mobile-navigation {
+            background-color: {color:Navigation Bar};
+            /*position: {select:Navigation Bar Setting};*/
+            box-shadow: 0 3px 10px rgba({text:Navigation Menu Shadow}, {text:Navigation Menu Shadow Opacity});
+        }
+        
+        /*POST*/
+        .post-container,
+        #perma-post {
+            background-color: {color:Post Background};
+            color: {color:Post Text};
+            {block:ifPostBorder}
+                border: 1px solid {color:Post Accent};
+            {/block:ifPostBorder}
+        }
+        
+        #pagination a {
+            background-color:  {color:Pagination Button};
+            box-shadow: 0 3px 5px rgba(0, 0, 0, {text:Pagination Button Shadow});
+            color: {color:Pagination Text};
+        }
+        #pagination a:hover {
+            background-color: {color:Pagination Button Hover};
+            color: {color:Pagination Text Hover};
+        }
+        
+        /*POST HEADER*/
+        .post-header {
+            border-bottom: 1px solid {color:Post Accent};
+            color: {color:Post Header Text};
+        }
+        
+        /*POST BODY*/
+        .post-container {
+            border-radius: {text:Post Corner Sharpness}px;
+            box-shadow: 0 0 8px rgba(0, 0, 0, {text:Post Shadow Amount});
+        }
+        .post-content a,
+        #perma-post .perma-post-tags > a,
+        .post-tags-container a,
+        .perma-notes a {
+            color: {color:Post Link Color} !important;
+        }
+        .post-content a:hover,
+        #perma-post .perma-post-tags > a:hover,
+        .post-tags-container a:hover,
+        .perma-notes a:hover {
+            color: {color:Post Link Hover Color} !important;
+            text-decoration: underline;
+        }
+        .post-container blockquote {
+            border-left: 2px solid {color:Post Accent};
+        }
+        .post-tags-container {
+            border-top: 1px solid {color:Post Accent};
+        }
+        
+        /*POST ALIGNMENT*/
+        /* SINGLE POST */
+        .single-post .post-container {
+            max-width: {text:Single Post Size}px;
+            width: 100%;
+            margin: 3px auto;
+        }
+        
+        /*POST HOVER TEXTURE*/
+        .squares-standard,
+        .rings-tiled-standard,
+        .rings-tiled-descending,
+        .lines-vertical,
+        .lines-sloped-right,
+        .circles-standard,
+        .circles-large,
+        .checkers {
+            background-size: {text:Photo Post Texture Size}px;
+        }
+        
+        .post-container:hover .squares-standard,
+        .post-container:hover .rings-tiled-standard,
+        .post-container:hover .rings-tiled-descending,
+        .post-container:hover .lines-vertical,
+        .post-container:hover .lines-sloped-right,
+        .post-container:hover .circles-standard,
+        .post-container:hover .circles-large,
+        .post-container:hover .checkers {
+            opacity: {text:Photo Post Texture Opacity};
+        }
+        
+        .photo-post-logo {
+            width: {text:Photo Post Logo Size}px !important;
+        }
+        
+        /*PHOTO POST OVERLAY*/
+        .layoutOne .standard-photo-post-cover,
+        .layoutTwo .standard-photo-post-cover,
+        .layoutThree .standard-photo-post-cover,
+        .layoutFour .standard-photo-post-cover {
+            background-color: rgba({text:Photo Post Gradient Overlay Primary Color}, {text:Photo Post Overlay Primary Opacity});
+        }
+        .layoutOne .photo-post-linear-gradient,
+        .layoutTwo .photo-post-linear-gradient,
+        .layoutThree .photo-post-linear-gradient,
+        .layoutFour .photo-post-linear-gradient {
+            background: linear-gradient(to top, rgba({text:Photo Post Gradient Overlay Primary Color}, {text:Photo Post Overlay Secondary Opacity}), rgba({text:Photo Post Gradient Overlay Secondary Color}, {text:Photo Post Overlay Primary Opacity}));
+        }
+        .layoutOne .photo-post-radial-gradient,
+        .layoutTwo .photo-post-radial-gradient,
+        .layoutThree .photo-post-radial-gradient,
+        .layoutFour .photo-post-radial-gradient {
+            background: radial-gradient(rgba({text:Photo Post Gradient Overlay Primary Color}, {text:Photo Post Overlay Primary Opacity}), rgba({text:Photo Post Gradient Overlay Secondary Color}, {text:Photo Post Overlay Secondary Opacity}));
+        }
+        
+        /*POST FOOTER*/
+        .post-footer,
+        .perma-post-caption,
+        .perma-post-tags,
+        .perma-reblog-from,
+        .perma-post-notes {
+            border-top: 1px solid {color:Post Accent};
+        }
+        .post-footer a {
+            color: {color:Post Footer Links};
+        }
+        .post-footer a:hover {
+            color: {color:Post Footer Links Hover};
+        }
+
+        .faux-like {
+            fill: {color:Like Button};
+        }
+        .reblog_button svg {
+            fill: {color:Reblog Button};
+        }
+        .photo-post-mod-reblog > .reblog_button svg {
+            fill: {color:Reblog Button 2} !important;
+        }
+        .photo-post-mod-like .faux-like {
+            fill: {color:Like Button 2} !important;
+        }
+        
+        /*ASK POST QUESTION BG*/
+        .post-question {
+            background-color: {color:Post Accent};
+        }
+        
+        /*PHOTO POST LAYOUT OPTIONS*/
+        .layoutOne .post-header,
+        .layoutTwo .post-header,
+        .layoutThree .post-header,
+        .layoutFour .post-header {
+            border-bottom: 1px solid rgba({text:Photo Post Accent 2}, {text:Photo Post Accent 2 Opacity});
+            color: {color:Photo Post Header Text 2};
+        }
+        .layoutOne .post-footer,
+        .layoutTwo .post-footer,
+        .layoutThree .post-footer,
+        .layoutFour .post-footer {
+            border-top: 1px solid rgba({text:Photo Post Accent 2}, {text:Photo Post Accent 2 Opacity});
+        }
+        .layoutOne .post-footer a,
+        .layoutThree .post-footer a,
+        .layoutFour .post-footer a {
+            color: {color:Photo Post Footer Links 2};
+        }
+        .layoutOne .post-footer a:hover,
+        .layoutThree .post-footer a:hover,
+        .layoutFour .post-footer a:hover {
+            color: {color:Photo Post Footer Links Hover 2};
+        }
+        .layoutTwo .photo-post-interaction-controls {
+            background-color: {color:Photo Post Reblog Button 2 Background};
+            border-radius: {text:Reblog Button Corner Sharpness}px;
+        }
+        .layoutTwo .post-footer {
+            background-color: {color:Post Background};
+        }
+        .layoutOne .post-footer,
+        .layoutOne .post-header,
+        .layoutOne .photo-post-cover,
+        .layoutOne .photo-post-interaction-controls,
+        .layoutTwo .post-footer,
+        .layoutTwo .post-header,
+        .layoutTwo .photo-post-cover,
+        .layoutTwo .photo-post-interaction-controls,
+        .layoutThree .post-footer,
+        .layoutThree .post-header,
+        .layoutThree .photo-post-cover,
+        .layoutThree .photo-post-interaction-controls,
+        .layoutFour .post-footer,
+        .layoutFour .post-header,
+        .layoutFour .photo-post-cover,
+        .layoutFour .photo-post-interaction-controls {
+            transition: {text:Photo Post Hover Transition Speed}s;
+        }
+        .layoutFour .photo-post-interaction-controls {
+            border: 2px solid {color:Reblog Button 2};
+        }
+        .layoutTwo:hover .photo-post-logo {
+            bottom: 10px;
+            opacity: 1;
+        }
+        
+        .layoutTwo:hover .photo-post-logo,
+        .layoutThree:hover .photo-post-logo,
+        .layoutFour:hover .photo-post-logo {
+            opacity: 1;
+        }
+        
+        /*custom css*/
+        {CustomCSS}
+    </style>
+    <body>
+    
+        <!--THEME HEADER-->
+        {block:IndexPage}
+            {block:ifEnableHeader}
+                <header class="iridescence-header">
+                    <div class="header-imgs-container">
+                        <div class="iridescence-header-img"></div>
+                    </div>
+                    
+                    <div class="iridescence-header-background {select:Header Background}"></div>
+                </header>
+            {/block:ifEnableHeader}
+        {/block:IndexPage}
+    
+        <!--THEME NAVIGATION-->
+        <section id="{select:Navigation Menu Type}" class="theme-layout">
+        </section>
+        
+        {block:IndexPage}
+        <!--POST CANVAS-->
+        <main id="post-canvas" class="{select:Post Alignment}">
+        
+            <!--POST-->
+            {block:Posts}
+            <article class="post-container{block:Photo} {select:Photo Post Layout}{/block:Photo}">
+            
+                {block:ifPostHeaderEnabled}
+                <!--POST HEADER-->
+                <header class="post-header {select:Post Header Items Position}">
+                    <div class="post-header-left">
+                        <ul>
+                            <li>
+                            {block:Date}
+                                <span>{TimeAgo}</span>
+                            {/block:Date}
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="post-header-right">
+                        <ul>
+                            {block:ifDisplayRebloggedFrom}
+                                <li>
+                                {block:RebloggedFrom}
+                                    <span class="post-reblog-from">Reblogged From</span>
+                                
+                                    <a href="{ReblogParentURL}">
+                                        <img class="post-reblog-from-icon" src="{ReblogParentPortraitURL-24}"/>
+                                    </a>
+                                {/block:RebloggedFrom}
+                                </li>
+                            {/block:ifDisplayRebloggedFrom}
+                        </ul>
+                    </div>
+                </header>
+                {/block:ifPostHeaderEnabled}
+                
+                <!--TEXT POST-->
+                {block:Text}
+                <main class="post-content trident-text-post">
+                    <div class="post-title-container">
+                        {block:Title}
+                        <p class="var-title">{Title}</p>
+                        {/block:Title}
+                    </div>    
+                    <div class="post-body-container">
+                        <p class="post-text">{Body}</p>
+                    </div>
+                </main>
+                {/block:Text}
+                
+                <!--PHOTO POSTS-->
+                {block:Photo}
+                <main class="post-content trident-photo-post">
+                    <div class="photo-post-interaction-controls">
+                        <ul>
+                            <li class="photo-post-mod-reblog">{ReblogButton color="grey" size="16"}</li>
+                            
+                            <li class="photo-post-mod-like"><div class="like-block">
+                                <svg class="faux-like" width="16" height="16" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+                                    <path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path>
+                                </svg>
+                                {LikeButton color="grey" size="16"}
+                            </div></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="{select:Photo Post Overlay}"></div>
+                    <div class="photo-post-texture {select:Photo Post Hover Texture}"></div>
+                    {block:ifEnableBlogLogoOnPhotoPost}
+                        <img class="photo-post-logo" src="{image:Photo Post Logo}">
+                    {/block:ifEnableBlogLogoOnPhotoPost}
+                    
+                    <!--{LinkOpenTag}-->
+                        <img class="photo-post-img post-img" src="{PhotoURL-400}" alt="{PhotoAlt}">
+                    <!--{LinkCloseTag}-->
+                </main>
+                {/block:Photo}
+                
+                <!--PHOTOSET POSTS-->
+                {block:Photoset}
+                <main class="post-content trident-photoset-post">
+                    {Photoset}
+                </main>
+                {/block:Photoset}
+                
+                <!--QUOTE POSTS-->
+                {block:Quote}
+                <main class="post-content trident-quote-post">
+                    <p>{Quote}</p>
+                    {block:Source}
+                    <p>{Source}</p>
+                    {/block:Source}
+                </main>
+                {/block:Quote}
+                
+                <!--LINK POSTS-->
+                {block:Link}
+                <main class="post-content trident-link-post">
+                    {block:Thumbnail}
+                        <img class="post-img" src="{Thumbnail}">
+                    {/block:Thumbnail}
+                    <div class="post-body-container">
+                        {block:Description} 
+                            <p class="post-text">{Description}</p>
+                        {/block:Description}
+                    </div>
+                </main>
+                {/block:Link}
+                
+                <!--CHAT POSTS-->
+                {block:Chat}
+                <main class="post-content trident-chat-post">
+                    <div class="post-title-container">
+                        {block:Title}
+                        <p class="var-title">{Title}</p>
+                        {/block:Title}
+                    </div>    
+                    <div class="post-body-container">
+                        {block:Lines}
+                            {block:Label}
+                            <div class="chat-line"><b>{Label}</b> <p>{Line}</p></div>
+                            {/block:Label}
+                        {/block:Lines}
+                    </div>
+                </main>
+                {/block:Chat}
+                
+                <!--AUDIO POSTS-->
+                {block:Audio}
+                <main class="post-content trident-audio-post">
+                    {block:AlbumArt}
+                        <img class="post-img" src="{AlbumArtURL}">
+                    {/block:AlbumArt}
+                    {block:AudioPlayer}
+                        {AudioPlayer}
+                    {/block:AudioPlayer}
+                </main>
+                {/block:Audio}
+                
+                <!--VIDEO POSTS-->
+                {block:Video}
+                <main class="post-content trident-video-post">
+                    {Video-400}
+                </main>
+                {/block:Video}
+                
+                <!--ANSWER POSTS-->
+                {block:Answer}
+                <main class="post-content trident-answer-post">
+                    <p class="post-text">
+                        <div class="post-question">
+                            <div class="post-name-img">
+                                <img class="post-ask-img" src="{AskerPortraitURL-128}">
+                                {Asker}
+                            </div>
+                            {Question}
+                        </div>
+                    </p>
+                    
+                    {block:Answerer}
+                        <p class="post-text">
+                            <div class="post-name-img">
+                                <img class="post-ask-img" src="{AnswererPortraitURL-128}">
+                                {Answerer}
+                            </div>
+                        </p>
+                        {Answer}
+                    {/block:Answerer}
+                    
+                    {Replies}
+                </main>
+                {/block:Answer}
+                
+                <!--POST CAPTION-->
+                {block:ifPostCaptionEnabled}
+                <section class="post-caption">
+                    <main class="post-content">
+                    {block:Caption} 
+                        {Caption}
+                    {/block:Caption}
+                    </main>
+                </section>
+                {/block:ifPostCaptionEnabled}
+                
+                <!--POST TAGS-->
+                {block:ifEnablePostTags}
+                    {block:HasTags}
+                    <section class="post-tags-container">
+                        {block:Tags}
+                            <a class="post-tags" href="{TagURL}"><span class="iso-tag-right"></span>{Tag}</a>
+                        {/block:Tags}
+                    </section>
+                    {block:HasTags}
+                {/block:ifEnablePostTags}
+                
+                <!--POST FOOTER-->
+                <footer class="post-footer {select:Post Footer Controls Position}">
+                
+                    <!--POST FOOTER LEFT-->
+                    <div class="post-footer-left">
+                        <ul>
+                        
+                            <!--REBLOG-->
+                            <li class="post-reblog-button">{ReblogButton color="grey" size="16"}</li>
+                            
+                            <!--LIKE-->
+                            <li class="post-like-button">
+                                <div class="like-block">
+                                    <svg class="faux-like" width="16" height="16" viewBox="0 0 19 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000">
+                                        <path d="M14.0425097,0.000920262799 C16.1435097,-0.0400797372 18.8835097,1.28192026 18.9635097,5.36992026 C19.0525097,9.95492026 15.1985097,13.3079203 9.48350967,16.2089203 C3.76650967,13.3079203 -0.0874903349,9.95492026 0.00150966509,5.36992026 C0.0815096651,1.28192026 2.82150967,-0.0400797372 4.92250967,0.000920262799 C7.02450967,0.0419202628 8.87050967,2.26592026 9.46950967,2.92792026 C10.0945097,2.26592026 11.9405097,0.0419202628 14.0425097,0.000920262799 Z"></path>
+                                    </svg>
+                                    {LikeButton color="grey" size="16"}
+                                </div>
+                            </li>
+                            
+                            <!--PERMALINK-->
+                            <li>
+                                <a href="{Permalink}" class="iso-link-right perma-page"></a>
+                            </li>
+                            
+                            <!--MAGNIFY-->
+                            {block:Photo}
+                                <li class="magnify-post"></li>
+                            {/block:Photo}
+                        </ul>
+                    </div>
+                    
+                    <!--POST FOOTER RIGHT-->
+                    <div class="post-footer-right">
+                        <ul>
+                            <li>
+                            {block:NoteCount}
+                                <a class="trident-post-notes" href="{Permalink}">{NoteCountWithLabel}</a>
+                            {/block:NoteCount}
+                            </li>
+                        </ul>
+                    </div>
+                </footer>
+                
+            </article>
+            {/block:Posts}
+            
+        </main>
+        
+        <!--PAGINATION-->
+        <section id="pagination">
+            {block:Pagination}
+                {block:PreviousPage}
+                <a class="pagination-prev pagination-left-right" href="{PreviousPage}"><span class="iso-chevron-left"></span> Previous Page</a>
+                {block:PreviousPage}
+                
+                {block:JumpPagination length="5"}
+                    {block:CurrentPage}
+                        <a href="{URL}">{PageNumber}</a>
+                    {/block:CurrentPage}
+                    
+                    {block:JumpPage}
+                        <a href="{URL}">{PageNumber}</a>
+                    {/block:JumpPage}
+                {/block:JumpPagination}
+                
+                {block:NextPage}
+                <a class="pagination-next pagination-left-right" href="{NextPage}">Next Page <span class="iso-chevron-right"></span></a>
+                {/block:NextPage}
+            {/block:Pagination}
+        </section>
+        {/block:IndexPage}
+        
+        <!--PERMALINK PAGE-->
+        {block:PermalinkPage}
+        <article id="perma-post">
+            {block:Posts}
+            
+                <!--TEXT POST-->
+                {block:Text} 
+                    <main class="post-content trident-text-post">
+                        <div class="post-title-container">
+                            {block:Title}
+                            <p class="var-title">{Title}</p>
+                            {/block:Title}
+                        </div>    
+                        <div class="post-body-container">
+                            <p class="post-text">{Body}</p>
+                        </div>
+                    </main>
+                {/block:Text}
+                
+                <!--PHOTO POST-->
+                {block:Photo} 
+                    <main class="post-content trident-photo-post">
+                        <img class="photo-post-img post-img" src="{PhotoURL-HighRes}" alt="{PhotoAlt}">
+                    </main>
+                {/block:Photo}
+                
+                <!--PHOTOSET POST-->
+                {block:Photoset} 
+                <main class="post-content trident-photoset-post">
+                    {Photoset}
+                </main>
+                {/block:Photoset}
+                
+                <!--QUOTE POST-->
+                {block:Quote}
+                <main class="post-content trident-quote-post">
+                    <p>{Quote}</p>
+                    {block:Source}
+                    <p>{Source}</p>
+                    {/block:Source}
+                </main>
+                {/block:Quote}
+                
+                <!--LINK POST-->
+                {block:Link} 
+                <main class="post-content trident-link-post">
+                    {block:Thumbnail}
+                        <img class="post-img" src="{Thumbnail-HighRes}">
+                    {/block:Thumbnail}
+                    <div class="post-body-container">
+                        {block:Description} 
+                            <p class="post-text">{Description}</p>
+                        {/block:Description}
+                    </div>
+                </main>
+                {/block:Link}
+                
+                <!--CHAT POST-->
+                {block:Chat} 
+                <main class="post-content trident-chat-post">
+                    <div class="post-title-container">
+                        {block:Title}
+                        <p class="var-title">{Title}</p>
+                        {/block:Title}
+                    </div>    
+                    <div class="post-body-container">
+                        {block:Lines}
+                            {block:Label}
+                            <div class="chat-line"><b>{Label}</b> <p>{Line}</p></div>
+                            {/block:Label}
+                        {/block:Lines}
+                    </div>
+                </main>
+                {/block:Chat}
+                
+                <!--AUDIO POST-->
+                {block:Audio} 
+                <main class="post-content trident-audio-post">
+                    {block:AlbumArt}
+                        <img class="post-img" src="{AlbumArtURL}">
+                    {/block:AlbumArt}
+                    {block:AudioPlayer}
+                        {AudioPlayer}
+                    {/block:AudioPlayer}
+                </main>
+                {/block:Audio}
+                
+                <!--VIDEO POST-->
+                {block:Video} 
+                <main class="post-content trident-video-post">
+                    {Video-400}
+                </main>
+                {/block:Video}
+                
+                <!--ANSWER POST-->
+                {block:Answer}
+                <main class="post-content trident-answer-post">
+                    <p class="post-text">
+                        <div class="post-question">
+                            <img class="post-ask-img" src="{AskerPortraitURL-128}"><br>
+                            {Asker}<br>
+                            {Question}
+                        </div>
+                    </p>
+                    
+                    {block:Answerer}
+                        <p class="post-text">
+                            <img class="post-ask-img" src="{AnswererPortraitURL-128}"><br>
+                            {Answerer}
+                        </p>
+                        {Answer}
+                    {/block:Answerer}
+                    
+                    {Replies}
+                </main>
+                {/block:Answer}
+                
+                <!--POST CAPTION-->
+                {block:Caption} 
+                <section class="perma-post-caption">
+                    <main class="post-content">
+                        {Caption}
+                        
+                        {block:Date}
+                            <span>{TimeAgo} - {DayOfWeekNumber}/{MonthNumber}/{Year} {12Hour}:{Minutes}{AmPm}</span>
+                        {/block:Date}
+                    </main>
+                </section>
+                {/block:Caption}
+                
+                {block:RebloggedFrom}
+                <section class="perma-reblog-from">
+                    <span class="post-reblog-from">Reblogged From</span>
+                
+                    <a href="{ReblogParentURL}">
+                        <img class="post-reblog-from-icon" src="{ReblogParentPortraitURL-24}"/>
+                    </a>
+                </section>
+                {/block:RebloggedFrom}
+                
+                <!--POST TAGS-->
+                {block:HasTags}
+                <section class="perma-post-tags">
+                    {block:Tags}
+                    <a href="{TagURL}"><span class="iso-tag-right"></span>{Tag}</a>
+                    {/block:Tags}
+                </section>
+                {/block:HasTags}  
+                
+                {block:PostNotes}
+                <section class="perma-post-notes">
+                    <div class="perma-note-count">
+                        {block:NoteCount}
+                            <p>{NoteCountWithLabel}</p>
+                        {block:NoteCount}
+                    </div>
+                    <div class="perma-notes">
+                        {PostNotes}
+                    </div>
+                </section>
+                {/block:PostNotes}
+            {/block:Posts}
+        </article>
+        {/block:PermalinkPage}
+            
+        <!--MAIN SCRIPT FILES-->
+        <script type="module" src="https://dl.dropbox.com/s/rmcrpo6ci55x4xh/trident-functions.js"></script>
+        
+        <!--INITIALISATION & THEME MODULES-->
+        <script type="module" src="https://dl.dropbox.com/s/7mcrixi87386ayg/initialise-iridescence-theme.js"></script>
+        
+        <!--PERSONALISATION VARIABLES-->
+        <script>
+            // POST GLOBALS
+            // colors
+            var postBG = "{color:Post Background}",
+                postText = "{color:Post Text}",
+                postAccent = "{color:Post Accent}";
+                
+            // selections
+            var tumblrCtrlsPos = "{select:Blog Controls Position}",
+                pagination = "{select:Pagination Type}",
+                postAlign = "{select:Post Alignment}";
+                
+            // THEME GLOBALS
+            // colours
+            var navBarColour = "{color:Navigation Bar}",
+                navBarColourTwo = "{color:Navigation Bar Secondary}",
+                navTitleTwo = "{color:Navigation Blog Title or Name Secondary}",
+                navDropTwo = "{color:Navigation Drop Menu Secondary}",
+                navLinkTwo = "{color:Navigation Link Secondary}",
+                navLinkTwoHover = "{color:Navigation Link Secondary Hover}",
+                navLinkTwoHoverBG = "{color:Navigation Link Secondary Background Hover}",
+                navDropLinkTwo = "{color:Drop Navigation Link Secondary}",
+                navDropLinkTwoHover = "{color:Drop Navigation Link Secondary Hover}",
+                navDropLinkTwoHoverBG = "{color:Drop Navigation Link Secondary Background Hover}";
+            
+            // text
+            var blogControlsY = "{text:Blog Controls Y Adjustment}",
+                blogControlsX = "{text:Blog Controls X Adjustment}",
+                navHeight = "{text:Navigation Bar Height}",
+                navStructure = `{text:Navigation Links}`,
+                imageSliderSpeed = "{text:Header Image Slider Speed}",
+                logoBuffer = "{text:Title Letter Spacing}",
+                sidebarWidth = "{text:Sidebar Width}";
+            
+            // selections
+            var navColourType = "{select:Navigation Menu Colors}",
+                navType = "{select:Navigation Menu Type}",
+                navPosition = "{select:Navigation Positioning}",
+                navLogoPosition = "{select:Navigation Logo Positioning}",
+                navLogoAndNamePos = "{select:Navigation Logo And Name Positioning}",
+                navBlogName = "{select:Navigation Blog Name or Title}",
+                navHoverStyle = "{select:Navigation Hover Styles}",
+                subNavHoverStyle = "{select:Sub Navigation Hover Styles}",
+                dropToggleType = "{select:Navigation Drop Menu Toggle Type}",
+                dropTransitionStyle = "{select:Navigation Drop Menu Transition Style}",
+                navHeadPosition = "{select:Navigation Position}",
+                navBarSetting = "{select:Navigation Bar Setting}",
+                imageSliderType = "{select:Image Slider Type}",
+                headerGradient = "{select:Header Gradient}",
+                searchQueryPosition = "{select:Search Query Location}";
+            
+            // booleans
+            var navTransparentHeader {block:ifNavigationBarTransparentonHeader}= true{/block:ifNavigationBarTransparentonHeader},
+                enableParallax {block:ifEnableHeaderParallax}= true{/block:ifEnableHeaderParallax},
+                enableGradient {block:ifEnableHeaderGradient}= true{/block:ifEnableHeaderGradient},
+                enableTitle {block:ifEnableHeaderTitle}= true{/block:ifEnableHeaderTitle},
+                enableAvatar {block:ifEnableHeaderAvatar}= true{/block:ifEnableHeaderAvatar},
+                enableDescription {block:ifEnableHeaderDescription}= true{/block:ifEnableHeaderDescription},
+                enableSidebarDescription {block:ifEnableSidebarDescription}= true{/block:ifEnableSidebarDescription},
+                enableSidebarAvatar {block:ifEnableSidebarAvatar}= true{/block:ifEnableSidebarAvatar},
+                enableSidebarGradient {block:ifEnableSidebarGradient}= true{/block:ifEnableSidebarGradient},
+                enableSearchQuery {block:ifEnableSeachBar}= true{block:ifEnableSeachBar};
+            
+            // ask & submit
+            var askEnabled = "{block:ifEnableAsk}{block:AskEnabled}{AskLabel}{/block:AskEnabled}{/block:ifEnableAsk}",
+                submitEnabled = "{block:ifEnableSubmissions}{block:SubmissionsEnabled}{SubmitLabel}{/block:SubmissionsEnabled}{/block:ifEnableSubmissions}",
+                askLabel = "{AskLabel}",
+                submitLabel = "{submitLabel}";
+                
+            var searchQuery = `<input class="search-input" type="text" name="q" value="{SearchQuery}"/>`;
+            
+            // navigation shadow
+            var navShadow = "box-shadow: 0 3px 10px rgba({text:Navigation Menu Shadow}, {text:Navigation Menu Shadow Opacity}) !important;";
+            
+            // images
+            var headerImages = [],
+                headerAvatar = "{image:Header Avatar}",
+                navLogo = "{image:Navigation Logo}";
+            
+            E(["{image:Header Image 1}", "{image:Header Image 2}", "{image:Header Image 3}", "{image:Header Image 4}", "{image:Header Image 5}"]).forEach((o, i) => {
+                if (o.node !== "https://assets.tumblr.com/images/x.gif?v=1") {
+                    headerImages.push(o.node);
+                }
+            });
+            
+        </script>
+        
+        <!--THEME INITIALISATION-->
+        <script type="module">
+            import { Theme } from "https://dl.dropbox.com/s/7mcrixi87386ayg/initialise-iridescence-theme.js";
+            
+            // THEME INITIALISATION
+            Theme.config({
+                themeName : "Iridescence",
+                description : `{Description}`,
+                url : "{BlogURL}",
+                avatar : "{PortraitURL-128}",
+                title : "{Title}"
+            });
+        </script>
+    </body>
+</html>
